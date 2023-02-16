@@ -1,0 +1,11 @@
+<map id="SystemBlock" name="SystemBlock">
+<<<<<<< HEAD
+<area shape="rect" id="node1" title="The SystemBlock class: This class encapsulates a system control block, defined by its transference fu..." alt="" coords="13,80,120,107"/>
+<area shape="rect" id="node3" href="$classControllerBlock.html" title=" " alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node2" href="$classBaseBlock.html" title=" " alt="" coords="21,5,112,32"/>
+=======
+<area shape="rect" id="node1" title="The SystemBlock class: This class encapsulates a system control block, defined by its transference fu..." alt="" coords="11,80,111,107"/>
+<area shape="rect" id="node3" href="$classControllerBlock.html" title=" " alt="" coords="5,155,116,181"/>
+<area shape="rect" id="node2" href="$classBaseBlock.html" title=" " alt="" coords="18,5,103,32"/>
+>>>>>>> 12f7f6ff0a3d9f70d2df6c6d9f31bcae21003b64
+</map>

@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<<<<<<< HEAD
+<area shape="rect" id="node1" href="$classBaseBlock.html" title=" " alt="" coords="5,183,96,209"/>
+<area shape="rect" id="node2" href="$classFPDBlock.html" title=" " alt="" coords="195,5,279,32"/>
+<area shape="rect" id="node3" href="$classFSystemBlock.html" title=" " alt="" coords="180,56,295,83"/>
+<area shape="rect" id="node4" href="$classFactorSystemBlock.html" title=" " alt="" coords="164,107,311,133"/>
+<area shape="rect" id="node5" href="$classFractionalController1DOF.html" title=" " alt="" coords="144,157,331,184"/>
+<area shape="rect" id="node6" href="$classFractionalDerivative.html" title=" " alt="" coords="160,208,315,235"/>
+<area shape="rect" id="node7" href="$classPIDBlock.html" title=" " alt="" coords="197,259,277,285"/>
+<area shape="rect" id="node8" href="$classStateVariableBlock.html" title=" " alt="" coords="164,309,311,336"/>
+<area shape="rect" id="node9" href="$classSystemBlock.html" title="The SystemBlock class: This class encapsulates a system control block, defined by its transference fu..." alt="" coords="184,360,291,387"/>
+<area shape="rect" id="node10" href="$classControllerBlock.html" title=" " alt="" coords="379,360,501,387"/>
+=======
+<area shape="rect" id="node1" href="$classBaseBlock.html" title=" " alt="" coords="5,183,91,209"/>
+<area shape="rect" id="node2" href="$classFPDBlock.html" title=" " alt="" coords="183,5,265,32"/>
+<area shape="rect" id="node3" href="$classFSystemBlock.html" title=" " alt="" coords="170,56,278,83"/>
+<area shape="rect" id="node4" href="$classFactorSystemBlock.html" title=" " alt="" coords="155,107,293,133"/>
+<area shape="rect" id="node5" href="$classFractionalController1DOF.html" title=" " alt="" coords="139,157,309,184"/>
+<area shape="rect" id="node6" href="$classFractionalDerivative.html" title=" " alt="" coords="155,208,293,235"/>
+<area shape="rect" id="node7" href="$classPIDBlock.html" title=" " alt="" coords="185,259,263,285"/>
+<area shape="rect" id="node8" href="$classStateVariableBlock.html" title=" " alt="" coords="158,309,290,336"/>
+<area shape="rect" id="node9" href="$classSystemBlock.html" title="The SystemBlock class: This class encapsulates a system control block, defined by its transference fu..." alt="" coords="174,360,274,387"/>
+<area shape="rect" id="node10" href="$classControllerBlock.html" title=" " alt="" coords="357,360,468,387"/>
+>>>>>>> 12f7f6ff0a3d9f70d2df6c6d9f31bcae21003b64
+</map>

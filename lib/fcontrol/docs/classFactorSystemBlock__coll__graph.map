@@ -1,0 +1,9 @@
+<map id="FactorSystemBlock" name="FactorSystemBlock">
+<<<<<<< HEAD
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node2" href="$classBaseBlock.html" title=" " alt="" coords="33,5,124,32"/>
+=======
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node2" href="$classBaseBlock.html" title=" " alt="" coords="31,5,117,32"/>
+>>>>>>> 12f7f6ff0a3d9f70d2df6c6d9f31bcae21003b64
+</map>
